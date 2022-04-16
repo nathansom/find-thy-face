@@ -2,6 +2,8 @@
 
 This web application allows user to detect a human face in an image using Clarifai face detection API.
 
+👉 [Try it for yourself](https://find-thy-face.herokuapp.com/) 
+
 The tech stack in the frontend includes:
 - [ReactJS](https://reactjs.org/)
 - [Create React App](https://create-react-app.dev/)
